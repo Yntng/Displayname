@@ -1,4 +1,6 @@
 # How to Change Display Name in M365 Account
+#### **Notes**:
+To be able to make these changes, you must have **User Administrator** privileges.
 
 Follow these steps to change the display name of a user in your Microsoft 365 (M365) account.
 
@@ -38,3 +40,5 @@ In the **Display Name** field, change the name as needed.
 After making the necessary changes, click **Save changes** to update the display name.
 
 ---
+### Special Notes:
+- **User Administrator** privileges are required to make these changes.
